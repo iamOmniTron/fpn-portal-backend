@@ -1,0 +1,7 @@
+candidate{
+    id,email,password,isVerified,emailToken
+}
+
+login, send confim email link to applicant's email
+
+redirect to applicant's dashboard and proceed to payment
